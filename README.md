@@ -41,4 +41,10 @@ This is a boiler plate for PayBright microservices.
 4. Dapper abstractions (needed for read / write ORM seperations)
 5. Showcase branch (see the abstractions implemented)
    * Remove current showcase code (demo reasons only)
+6. Automapper.
+
+## Discussions
+1. Global exception handling?
+2. Transaction control?
+3. Entity cascades?
     
