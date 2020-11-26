@@ -3,10 +3,10 @@ This is a boiler plate for PayBright microservices.
 
 ## Done
 1. Logical seperations:
-  * Api.
-  * Business.
-  * Domain.
-  * Infrastructure.
+   * Api.
+   * Business.
+   * Domain.
+   * Infrastructure.
 
 2. Clean Configurations.
 3. MedatR
@@ -20,8 +20,8 @@ This is a boiler plate for PayBright microservices.
 11. Docker Support.
 12. Environment variables.
 13. DDD
-  * Abstract Entity
-  * IBusinessRule
+   * Abstract Entity
+   * IBusinessRule
 14. Generic Repository (Handy for Aggregates)
 
 ## In Development
@@ -32,13 +32,13 @@ This is a boiler plate for PayBright microservices.
 
 ## ToDo
 1. MediatR abstractions
-  * Abstract IRequestHandler
-  * Abstract IRequest
+   * Abstract IRequestHandler
+   * Abstract IRequest
     * ICommandHandler : IRequestHandler
     * IQueryHandler : IRequestHandler
 2. Default Github Workflows.
 3. Sql Connection Factory.
 4. Dapper abstractions (needed for read / write ORM seperations)
 5. Showcase branch (see the abstractions implemented)
-  * Remove current showcase code (demo reasons only)
+   * Remove current showcase code (demo reasons only)
     
