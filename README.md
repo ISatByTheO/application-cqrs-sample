@@ -13,7 +13,7 @@ This is a boiler plate for PayBright microservices.
 4. Global Filters.
 5. Swagger.
 6. Fluent Validation.
-7. Design Time Configurations
+7. Design Time Configurations (including cmds)
 8. Buiness seedwork / Foundations
 9. Domain seedwork / Foundations
 10. Infrastructure seedwork.
