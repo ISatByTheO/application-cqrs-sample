@@ -6,7 +6,7 @@ This is a boiler plate for PayBright microservices.
   * Api.
   * Business.
   * Domain.
-  *Infrastructure.
+  * Infrastructure.
 
 2. Clean Configurations.
 3. MedatR
