@@ -25,9 +25,9 @@ This is a boiler plate for PayBright microservices.
 14. Generic Repository (Handy for Aggregates)
 
 ## In Development
-1. BaseHttpClient (Mostly done)
-  * RestSharp/XML
-  * RestSharp/JSON
+1. BaseHttpClient (Mostly done) 
+   * RestSharp/XML
+   * RestSharp/JSON
 2. Test Abstractions (Ties into MediatR.
 
 ## ToDo
