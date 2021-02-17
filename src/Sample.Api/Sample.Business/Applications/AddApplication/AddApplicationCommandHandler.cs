@@ -29,7 +29,8 @@ namespace Sample.Business.Applications.AddApplication
                 Firstname = application.Firstname, 
                 Lastname = application.Lastname, 
                 DateOfBirth = application.DateOfBirth, 
-                Email = application.Email };
+                Email = application.Email 
+            };
         }
     }
 }
