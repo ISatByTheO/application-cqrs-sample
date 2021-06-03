@@ -1,5 +1,5 @@
 # Microservice Template
-This is a boiler plate for PayBright microservices.
+This is a boiler plate for PayBright microservices. It can be used as a reference or taken from as you create the repository. Please esure your own configurations for proper indexing etc if you're to use EF core.
 
 ## Done
 1. Logical seperations:
