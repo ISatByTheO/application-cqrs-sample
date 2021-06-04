@@ -23,6 +23,7 @@ This is a boiler plate for PayBright microservices. It can be used as a referenc
    * Abstract Entity
    * IBusinessRule
 14. Generic Repository (Handy for Aggregates)
+15. Exception Handling.
 
 ## In Development
 1. BaseHttpClient (Mostly done) 
@@ -77,3 +78,4 @@ This is a boiler plate for PayBright microservices. It can be used as a referenc
 22. Docker? Defined by Brian
 23. Github Actions? Defined by Brian
 24. Single deployments (design time factory, health checks) - Brian
+25. Exception Handling - https://andrewlock.net/handling-web-api-exceptions-with-problemdetails-middleware/
