@@ -1,6 +1,4 @@
-﻿using MediatR;
-using Microsoft.Extensions.DependencyInjection;
-using System;
+﻿using Microsoft.Extensions.DependencyInjection;
 
 namespace Sample.Api.Configuration
 {
@@ -10,7 +8,6 @@ namespace Sample.Api.Configuration
 
         internal static IServiceCollection AddMediatR(this IServiceCollection serviceCollection)
         {
-            serviceCollection.AddMediatR(AppDomain.CurrentDomain.Load(_assemblyName));
             return serviceCollection;
         }
     }
