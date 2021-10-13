@@ -6,9 +6,9 @@ namespace Sample.Domain.SeedWork
 {
     public class Entity
     {
-        public Guid Id { get; private set; }
+        public int Id { get; private set; }
 
-        public Entity(Guid id)
+        public Entity(int id)
         {
             Id = id;
         }
